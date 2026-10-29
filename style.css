@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; max-width: 760px; margin: 0 auto; padding: 24px; color: #222; }
+header { border-bottom: 2px solid #3b6ea5; margin-bottom: 24px; }
+.tagline { color: #555; }
+.projects { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+.project { border: 1px solid #ccd; border-radius: 8px; padding: 12px; }
+.project h3 { margin: 0 0 6px; font-size: 1.05em; }
+footer { margin-top: 32px; color: #777; font-size: 0.9em; }

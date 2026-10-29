@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "defaultMode": "manual",
+    "deny": [
+      "Bash(git push *)",
+      "Bash(curl *)"
+    ]
+  },
+  "plansDirectory": "./plans"
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "github-issues": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/issues/readonly",
+      "headers": { "Authorization": "Bearer ${MCP_GITHUB_TOKEN}" }
+    }
+  }
+}
